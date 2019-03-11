@@ -13,8 +13,8 @@ public class CurlExecutor {
 		
 		try {
 			
-			//Process process = runtime.exec("curl -D- -u kretovaa:kretindaatc -X GET -H \"Content-Type: application/json\" "
-					//+ "https://jira.at-consulting.ru/rest/api/2/search?jql=project%20%3D%20OU");
+			//Process process = runtime.exec("curl -D- -u yyyyyyyy -X GET -H \"Content-Type: application/json\" "
+					//+ "https://jira.zzzzzzz.ru/rest/api/2/search?jql=project%20%3D%20OU");
 			
 			Process process = runtime.exec("ifconfig");
 			
